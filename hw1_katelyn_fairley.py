@@ -12,7 +12,7 @@ print('Hello', full_name)
 print('')
 print('This program will ask you to enter the base ',end='')
 print('and the height of a triangle. The program will ',end='')
-print('calculate and print the area of the triangle.')
+print('calculate and print the area of TTthe triangle.')
 print('')
 
 print('Enter the length of the base: ', end='')
